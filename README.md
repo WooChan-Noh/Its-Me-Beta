@@ -25,15 +25,15 @@ Print a face-swapped image
 + Under the path `Application.persistentDataPath + /ItsmeBeta/`, we need **folders** `Photo`, `ResultImages`, and `TargetImages` 
 + We need the target image, which is the background for compositing the face. (size : 512x768) 
 + The target images should all be in the `TargetImages` folder, and we need at least 20 of them (there is no maximum).
-+ You will need **your own Stable Diffusion URL** where Reactor is installed and API communication is possible (local or server). _Check Auotomaic1111 project!_
++ You will need **your own Stable Diffusion URL** where Reactor is installed and API communication is possible (local or server). _Check Auotomatic1111 project!_
 + You will need a **front-facing webcam** or **another webcam** (In this case, you need to modify the set webcam code in WebCamera.cs.)
 + You need printer and the code to connect it (Code can't be provided)
-+ The 15 images are in one array
-+ All images clicks are detected, clicked images are checked separately
-+ and the checked images are textured separately and sent to the printer.(3 images)    
 + Randomly fetch 15 target images in "TargetImages" folder to swap faces.
   + (3-5 minutes for communication on the test environment server)
   + (30 sec ~ 1 min on local environment)
++ The 15 images are in one array
++ All images clicks are detected, clicked images are checked separately
++ and the checked images are textured separately and sent to the printer.(3 images)    
 
 
 ## Known Issue
