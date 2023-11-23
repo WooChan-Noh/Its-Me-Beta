@@ -14,11 +14,11 @@ Print a face-swapped image
 + Used Local Computer : 4070ti 12G
 
 ### I used this projects
-1. OpenCV for Unity : https://github.com/EnoxSoftware/OpenCVForUnity
-2. Stable Diffusion Unity Intergration : https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
-+ To be precise, used this Version : https://github.com/WooChan-Noh/SDReactorUnity
-3. Stable Diffusion WebUI : https://github.com/AUTOMATIC1111/stable-diffusion-webui
-4. Stable Diffusion WebUI Reactor : https://github.com/Gourieff/sd-webui-reactor
+1. OpenCV for Unity : [Original Github](https://github.com/EnoxSoftware/OpenCVForUnity)
+2. Stable Diffusion Unity Intergration : [Original Github](https://github.com/dobrado76/Stable-Diffusion-Unity-Integration)
++ To be precise, used this Version : [Original Github](https://github.com/WooChan-Noh/SDReactorUnity)
+3. Stable Diffusion WebUI : [Original Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+4. Stable Diffusion WebUI Reactor : [Original Github](https://github.com/Gourieff/sd-webui-reactor)
 5. Printer Connect Script (**Provided by a partner company**)
   
 ## Learn more
@@ -48,7 +48,7 @@ Print a face-swapped image
 #### Result
 <img src="https://github.com/WooChan-Noh/Its-Me-Beta/assets/103042258/52b7467e-6b2f-4a66-b85b-6044f9a463f0" width="768" height="384"/></br>
 #### Photo
-<img src="https://github.com/WooChan-Noh/Its-Me-Beta/assets/103042258/5f27604b-7db7-4551-a6e8-957d68113ab5" width="512" height="512"/></br>
+<img src="https://github.com/WooChan-Noh/Its-Me-Beta/assets/103042258/5f27604b-7db7-4551-a6e8-957d68113ab5" width="640" height="512"/></br>
 #### Test(20sec)
 ![20sec](https://github.com/WooChan-Noh/Its-Me-Beta/assets/103042258/e6214071-c539-4f0e-8f42-710ecb989a14)
 #### (25sec)
