@@ -39,6 +39,7 @@ Print a face-swapped image
 ## Known Issue
 1. Only works in **Editor Mode** _(I don't know why. Probably frequent calls to OpenCV are causing the build program to freeze)_
 2. Memory leak : The webcam texture continues to exist. I didn't write any allocation code after freeing the memory, so it will **probably** cause memory issues after a long time.
+3. Communication : Communication is **NOT** async. this project has same problem as SDReactorUnity (https://github.com/WooChan-Noh/SDReactorUnity)     _- Check Known Issue Part!_
 ***
 ### Source Image
 <img src="https://github.com/WooChan-Noh/Its-Me-Beta/assets/103042258/d8acef24-995d-4bd3-9a75-509b7a99c903" width="256" height="384"/></br>        
