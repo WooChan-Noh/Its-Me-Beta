@@ -1,4 +1,4 @@
-[Read Me - English](https://github.com/WooChan-Noh/Its-Me-Beta/blob/main/ReadMeEng.md)
+[Read Me - English](https://github.com/WooChan-Noh/Its-Me-Beta/blob/main/ReadMeEng.md)    
 [Read Me - Japanese](https://github.com/WooChan-Noh/Its-Me-Beta/blob/main/ReadMeJp.md)
 
 # Its-Me-Beta
